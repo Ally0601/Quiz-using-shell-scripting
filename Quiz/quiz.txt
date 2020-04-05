@@ -1,0 +1,10 @@
+Which of the following is NOT a valid deadlock prevention scheme?#a) Release all resources before requesting a new resource b) Never request a resource after releasing any resource#b
+A graphics card has on board memory of 1 MB. Which of the following modes can the card not support?#a) 1600 x 400 resolution with 256 colours on a 17 inch monitor b) 1600 x 400 resolution with 16 million colours on a 14 inch monitor#b
+Which of the following requires a device driver?#a) Disk b) Register#a
+More than one word are put in one cache block to?#a) exploit the spatial locality of reference in a program b) exploit the temporal locality of reference in a program#a
+Which of the following statements is false?#a) Virtual memory increases the degree of multiprogramming b) Virtual memory reduces the context switching overhead#b
+Which of the following need not necessarily be saved on a context switch between processes?#a) Translation look-aside buffer b) Program counter#a
+Where does the swap space reside ?#a) Disk b) ROM#a
+Which of the following does not interrupt a running process?#a) Timer b) Scheduler process#b
+Which of the following scheduling algorithms is non-preemptive?#a) First-In First-Out b) Multilevel Queue Scheduling#a
+Which one of the following statements describes the properties achieved?#a) Progress but not mutual exclusion b) Mutual exclusion but not progress#b
